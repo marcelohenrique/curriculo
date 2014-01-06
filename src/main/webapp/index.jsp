@@ -6,23 +6,28 @@
 
 		<h2>Marcelo Henrique de Oliveira Lima</h2>
 
-		Solteiro, brasileiro, 26 anos<br>
-		Rua Marechal Deodoro, 1395 - Benfica.<br>
-		CEP 60020-061 - Fortaleza - CE<br>
-		Celular: (85) 8883-5396<br>
+		Casado, brasileiro, 27 anos<br>
+		SQN 312 Bloco D, 108 - Asa Norte<br>
+		CEP: 70765-040 - Brasília - DF<br>
+		Celular: (61) 8202-0300 / Telefone: (61) 3033-4822<br>
 		E-mail: marcelohenriquedeoliveiralima@gmail.com<br>
 
 		<h5>Resumo profissional</h5>
 
-		Possuo seis anos de experiência com desenvolvimento, análise e elaboração de arquitetura envolvendo a plataforma Java e com processos como RUP, MPS.BR e Scrum. Atuo como líder técnico e arquiteto nos projetos que participo. Além de ter experiência como coordenador de equipes de projetos Java EE.
+		Possuo sete anos de experiência com desenvolvimento, análise e elaboração de arquitetura envolvendo a plataforma Java e com processos como RUP, MPS.BR e Scrum. Atuo como líder técnico e arquiteto nos projetos que participo. Além de ter experiência como coordenador de equipes de projetos Java EE.
 
 		<h5>Experiência profissional</h5>
 
 		<ul>
 			<li>
-				Ebix Latin America - 2010/2012<br>
+				Fóton Informática - 2013/2014<br>
+				Cargo: Arquiteto de Software.<br>
+				Processo de trabalho totalmente aderente ao RUP. Desenvolvimento da arquitetura de referência da empresa. Análise e projeto de sistemas/produtos. Desenvolvimento de componentes de software visando reuso e redução de trabalho.
+			</li>
+			<li>
+				Ebix Latin America - 2010/2013<br>
 				Cargo: Analista Líder.<br>
-				Líder técnico e coordenador de equipes de projetos. Análise, projeto e implementação de aplicações web sobre a plataforma Java. Especificação de arquitetura de aplicações web de alta complexidade na área de seguros.
+				Líder técnico e coordenador de equipes de projetos. Análise, projeto e implementação de aplicações web sobre a plataforma Java. Definição de arquitetura de aplicações web de alta complexidade na área de seguros.
 			</li>
 			<li>
 				Usix Technology - 2008/2010<br>
@@ -40,6 +45,11 @@
 
 		<ul>
 			<li>
+				BRB-MyBank<br>
+				Papel: Arquiteto de Software.<br>
+				Tecnologias: JSF 2.0, Primefaces 3.5, EJB 3.1, JPA 2.0 (Hibernate), CDI 1.0, JAX-WS, JAX-B, JBoss AS 7.1 (desenvolvimento) e Weblogic 3.1.2 (homologação e produção).
+			</li>
+			<li>
 				Worksite<br>
 				Papel: Analista de sistemas. Responsável pela refatoração visando melhorias de performance da aplicação.<br>
 				Tecnologias: JSF 1.2, Richfaces 3, Tomahawk, EJB 3, JPA (Hibernate), JAX-WS, JAX-B, Glassfish (desenvolvimento) e Websphere (homologação e produção).
@@ -51,7 +61,7 @@
 			</li>
 			<li>
 				Assistência 24 Horas<br>
-				Papel: Arquiteto.<br>
+				Papel: Arquiteto de Software.<br>
 				Tecnologias: JSF 1.2, Facelets, Richfaces 3, Tomahawk, Spring, JPA (Hibernate), JAX-WS, Maven, Glassfish (desenvolvimento) e Websphere (homologação e produção).
 			</li>
 			<li>
@@ -92,18 +102,18 @@
 			<li>
 				Java
 				<ul>
-					<li>Servlet&JSP, EJB 2.1 e 3.0, JasperReports + iReport, DWR, Quartz.</li>
+					<li>Servlet&JSP, EJB 2.1 e 3.x, JasperReports + iReport, DWR, Quartz.</li>
 					<li>Frameworks web: Struts 1 e 2, JSF 1.2 e 2.0, Facelets, Richfaces, Icefaces, Tomahawk, Primefaces.</li>
 					<li>XML: Castor, XStream, JAX-B.</li>
 					<li>Web Services: Axis 1 e 2, XFire, JAX-WS.</li>
-					<li>Teste: JUnit, DBUnit, Easymock, Mockito, Coverage, Emma, Selenium e JMeter.</li>
+					<li>Teste: JUnit, Arquillian, DBUnit, Easymock, Mockito, Coverage, Emma, Selenium e JMeter.</li>
 					<li>Profilers: JProfile e VisualVM.</li>
 				</ul>
 			</li>
 			<li>JavaScript: JQuery e Ext.JS.</li>
 			<li>Ferramentas: Eclipse, Netbeans, IReport e Maven.</li>
 			<li>Bancos de dados: Oracle, MS SQL, MySQL e PostgreSQL.</li>
-			<li>Servidores: Tomcat, Glassfish, JBoss e Websphere.</li>
+			<li>Servidores: Tomcat, Glassfish, JBoss, Websphere e Weblogic.</li>
 			<li>Controle de versão: CVS, SVN, Git e Mercurial.</li>
 		</ul>
 	</body>
