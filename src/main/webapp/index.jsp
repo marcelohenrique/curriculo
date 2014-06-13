@@ -87,6 +87,7 @@
 
 		<h5>Certificações</h5>
 
+		2014 - Certified ScrumMaster.<br>
 		2013 - Oracle Certified Professional, Java EE 5 Web Component Developer.<br>
 		2012 - Programming in HTML5 with JavaScript and CSS3.<br>
 		2010 - Sun Certified Programmer for the Java Platform, SE 6.<br>
