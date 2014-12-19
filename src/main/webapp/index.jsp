@@ -52,18 +52,23 @@
 			<li>
 				Grifo<br>
 				Papel: Desenvolvedor.<br>
-				Tecnologias: WebWork + Velocity, Spring, Hibernate, Tomcat 6.
+				Tecnologias: WebWork 2.1.7, Velocity 1.4, Spring 2.1, Acegi 1.0.6, Hibernate 3.x, Tomcat 6.
+			</li>
+			<li>
+				Carteiras Funcionais<br>
+				Papel: Desenvolvedor.<br>
+				Tecnologias: Servlet, JSP, JDBC e CacheDB.
 			</li>
 			<li>
 				Ouvidoria Internet<br>
 				Papel: Desenvolvedor.<br>
-				Tecnologias: BootStrap, REST (RestEasy), JSON, Spring, Hibernate, JBoss.
+				Tecnologias: BootStrap, REST (JAX-RS - RestEasy 2.3.3), JSON (Jackson 1.8.5), XML (XStream), Spring 3.0.5, Hibernate 3.2.4, JBoss 4.2.3, JUnit 4.11, Mockito 1.9.5.
 			</li>
-			<li>
+			<!-- <li>
 				Certidão de Envolvimento em Feitos<br>
 				Papel: Desenvolvedor.<br>
-				Tecnologias: Servlet, JSP, Hibernate, REST (RestEasy), JSON.
-			</li>
+				Tecnologias: Servlet, JSP, REST (JAX-RS - RestEasy 2.3.3), JSON (Jackson 1.8.5), Spring 3.0.5, Hibernate 3.2.4.
+			</li> -->
 			<li>
 				BRB-MyBank<br>
 				Papel: Arquiteto de Software.<br>
@@ -114,7 +119,7 @@
 		2009 - Sun Certified Associate for Java Platform, SE.
 
 		<h5>Cursos</h5>
-		
+
 		Coursera - University of Maryland - Programming Mobile Applications for Android Handheld Systems.<br>
 		Coursera - École Polytechnique Fédérale de Lausanne - Principles of Reactive Programming.
 
@@ -129,9 +134,10 @@
 				Java
 				<ul>
 					<li>Servlet&JSP, EJB 2.x e 3.x, JasperReports + iReport, DWR, Quartz.</li>
-					<li>Frameworks web: Struts 1 e 2, WebWork, JSF 1.x e 2.x, Facelets, Richfaces, Icefaces, Tomahawk, Primefaces.</li>
+					<li>Frameworks web: Struts 1 e 2, WebWork 2.x, JSF 1.x e 2.x, Facelets, Richfaces, Icefaces, Tomahawk, Primefaces.</li>
 					<li>XML: Castor, XStream, JAX-B.</li>
-					<li>Web Services: Axis 1 e 2, XFire, JAX-WS.</li>
+					<li>JSON: Jackson, Gson.</li>
+					<li>Web Services: Axis 1 e 2, XFire, JAX-WS, RESTful (JAX-RS - RestEasy, Jersey).</li>
 					<li>Teste: JUnit, Arquillian, DBUnit, Easymock, Mockito, Coverage, Emma, Selenium e JMeter.</li>
 					<li>Profilers: JProfile e VisualVM.</li>
 				</ul>
