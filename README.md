@@ -1,4 +1,4 @@
 curriculo
 =========
 
-Meu currículo. =]
+http://marcelohenrique.github.io/curriculo/
